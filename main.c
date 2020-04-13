@@ -12,5 +12,7 @@ void main()
 int test1( int a, int b)
 {
 	//master: add comment
+	//test: add line
+	//test: second line
 	return a + b; 
 }
