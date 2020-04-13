@@ -13,5 +13,7 @@ int test1( int a, int b)
 {
 	//master: add comment
 	//another comment
-	return a + b; // new comment
+	//test: add line
+	//test: second line
+	return a + b; 
 }
