@@ -8,3 +8,8 @@ void main()
 	//the following line is added in master
 	printf("\n");
 }
+
+int test1( int a, int b)
+{
+	return a + b;
+}
