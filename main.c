@@ -12,5 +12,5 @@ void main()
 int test1( int a, int b)
 {
 	//master: add comment
-	return a + b;
+	return a + b; // new comment
 }
